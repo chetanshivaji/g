@@ -8,8 +8,7 @@ import (
 )
 
 func Fun() {
-	fmt.Println("hello post 0.1.1")
+	fmt.Println("hello in G fun")
 	n.Funn()
 	md.Funmd()
 }
-
