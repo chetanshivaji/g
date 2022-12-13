@@ -5,6 +5,6 @@ go 1.19
 replace github.com/chetanshivaji/m => ./
 
 require (
-	github.com/chetanshivaji/m v0.0.0-00010101000000-000000000000
+	github.com/chetanshivaji/m v0.1.2-0.20221213144955-1a16e8e3d9f3
 	github.com/chetanshivaji/n v0.1.2
 )
